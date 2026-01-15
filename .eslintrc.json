@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": ["@rocketseat/eslint-config/node"],
+  "env": {
+    "node": true,
+    "es2022": true
+  }
+}
